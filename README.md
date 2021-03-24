@@ -1,18 +1,29 @@
-### 🎇 Croxy 🎇 | 📖 Profile Information 📖
+# 🎇 Croxy 🎇 | 📖 Profile Information 📖
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Croxyy&count_private=true&show_icons=true&theme=gruvbox">
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Croxyy&count_private=true&show_icons=true&theme=gruvbox" alt="Croxyy
+'s github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croxyy&theme=gruvbox" alt="My Top Langs" />
+</p>
+
+## ⚡ Fun Fact
+
+I love startup culture :)
+
+Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
+
+## 📫 How to Reach Me
 
 
-
-- :zap: I like Programming, Designing, Developing Programs.
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: Blog vs No Information Right Now Just Github
+[![Discord](https://img.shields.io/badge/Discord%20Sunucumuz-Tıkla%20Gel%20-orange)](https://discord.gg/uaqE9C8cyW)
 
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
   <br>
 
-  - 💻 Node.js: Discord.js Quick.db etc.
+  - 💻 Node.js - Javascript: Discord.js Quick.db etc.
   - 👨‍💻 Html - Css: Web Site Design General UI design
   - 🌃 C#: Game Development, Desktop Program Development etc.
   - 🌄 Vb.Net: Desktop Program Development etc.
@@ -21,18 +32,3 @@
 
 </details>
 
-
-<!--
-**Croxyy/Croxyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
