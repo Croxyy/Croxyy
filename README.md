@@ -18,9 +18,9 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 Yazılım Kategorisindeki Yarışma Sıralamalarım;
 
-Manisa/Akhisar  Okul Sıralama : 1.lik
-Manisa/Akhisar İlçe : 1.lik
-Manisa İl : 2.lik
+- Manisa/Akhisar  Okul Sıralama : 1.lik
+- Manisa/Akhisar İlçe : 1.lik
+- Manisa İl : 2.lik
 
 
 ## 📫 How to Reach Me
