@@ -3,9 +3,9 @@
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Croxyy&count_private=true&show_icons=true&theme=gruvbox" alt="Croxyy
+  <img  src="https://github-readme-stats.vercel.app/api?username=Eienwq&count_private=true&show_icons=true&theme=gruvbox" alt="Eienwq
 's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croxyy&theme=gruvbox" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=gruvbox" alt="My Top Langs" />
 </p>
 
 ## ⚡ Fun Fact
@@ -16,7 +16,7 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 ## 📫 Bilgim 📫
 
-Yazılım Kategorisindeki Yarışma Sıralamalarım;
+⚡ Yazılım Kategorisindeki Yarışma Sıralamalarım;
 
 - Manisa/Akhisar  Okul Sıralama : 1.lik
 - Manisa/Akhisar İlçe : 1.lik
@@ -26,7 +26,7 @@ Yazılım Kategorisindeki Yarışma Sıralamalarım;
 ## 📫 How to Reach Me
 
 
-[![Discord](https://img.shields.io/badge/Discord%20Sunucumuz-Tıkla%20Gel%20-orange)](https://discord.gg/uaqE9C8cyW)
+[![Discord](https://img.shields.io/badge/Discord%20Sunucumuz-Tıkla%20Gel%20-orange)](https://discord.gg/9JbNskgfUg)
 
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
