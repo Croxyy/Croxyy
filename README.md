@@ -1,4 +1,4 @@
-# 🎇 Croxy 🎇 | 📖 Profile Information 📖
+# 🎇 Eienwq 🎇 | 📖 Profile Information 📖
 
 ## 📌 GitHub Stats And Top Languages
 
