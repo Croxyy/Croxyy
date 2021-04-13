@@ -25,8 +25,8 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 ## 📫 How to Reach Me
 
-
-[![Discord](https://img.shields.io/badge/Discord%20Sunucumuz-Tıkla%20Gel%20-orange)](https://discord.gg/9JbNskgfUg)
+<i class="fa fa-star">
+[![Discord](https://img.shields.io/badge/Discord%20Sunucumuz-Tıkla%20Gel%20-orange)](https://discord.gg/EJhbVKaVRS)
 
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
