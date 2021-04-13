@@ -3,9 +3,9 @@
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Eienwq&count_private=true&show_icons=true&theme=gruvbox" alt="Eienwq
+  <img  src="https://github-readme-stats.vercel.app/api?username=Eienwq&count_private=true&show_icons=true&theme=dark" alt="Eienwq
 's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=gruvbox" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=dark" alt="My Top Langs"/>
 </p>
 
 ## ⚡ Fun Fact
