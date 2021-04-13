@@ -40,5 +40,3 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
   > 💁‍♂️ Daha detaylı bilgi için projelerime bakabilirsiniz.
 
 </details>
-<i class="fa fa-star">
-
