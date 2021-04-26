@@ -8,6 +8,10 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=dark" alt="My Top Langs"/>
 </p>
 
+## 🎵 Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mgqwpiq7g9f5fsn3azlkg20i6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 ## ⚡ Fun Fact
 
 I love startup culture :)
