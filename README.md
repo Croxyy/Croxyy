@@ -30,7 +30,7 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 ## 📫 How to Reach Me
 
 
-[![Discord](https://img.shields.io/badge/Discord%20Profilim-Tıkla-red)](https://discord.gg/EJhbVKaVRS)
+[![Discord](https://img.shields.io/badge/Discord%20Profilim-Tıkla-red)](https://discord.com/users/823887682052161557)
 
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
