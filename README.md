@@ -11,7 +11,7 @@
 ## 📌 Eienwq.js 📌
 
 <div align="center">
-<h1>eienwq</h1>
+<h1>Discord : !Eienwq#1260</h1>
 </div>
 <div>
 
