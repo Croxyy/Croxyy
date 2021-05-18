@@ -8,9 +8,35 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=dark" alt="My Top Langs"/>
 </p>
 
-## 🎵 Spotify
+## 📌 Eienwq.js 📌
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=mgqwpiq7g9f5fsn3azlkg20i6&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+<h1>eienwq</h1>
+</div>
+<div>
+
+```cs
+using Me;
+using Me.Languages;
+
+public class MyLife 
+{
+  Me me;
+  
+  public static void Main() 
+  {
+    me = new Me("eienwq");
+    while (me.alive) 
+    {
+      me.eat();
+      me.doCoding(Languages.CSharp);
+      me.sleep();
+    }
+  }
+  
+}
+```
+</div>
 
 ## ⚡ Fun Fact
 
