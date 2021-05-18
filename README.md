@@ -8,7 +8,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=dark" alt="My Top Langs"/>
 </p>
 
-## 📌 Eienwq.js 📌
+## 📌 Eienwq.cs 📌
 
 <div align="center">
 <h1>Discord : !Eienwq#1260</h1>
