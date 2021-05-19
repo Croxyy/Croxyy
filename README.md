@@ -44,15 +44,6 @@ I love startup culture :)
 
 Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
 
-## 📫 Bilgim 📫
-
-⚡ Yazılım Kategorisindeki Yarışma Sıralamalarım;
-
-- Manisa/Akhisar  Okul Sıralama : 1.lik
-- Manisa/Akhisar İlçe : 1.lik
-- Manisa İl : 2.lik
-
-
 ## 📫 How to Reach Me
 
 
