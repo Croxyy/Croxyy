@@ -1,6 +1,6 @@
 # 🎇 Eienwq 🎇 | 📖 Profile Information 📖
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323095557470158855)](https://discord.com/users/323095557470158855)
+[![Eienwq Profile](https://lanyard-profile-readme.vercel.app/api/323095557470158855)](https://discord.com/users/323095557470158855)
 
 ## 📌 GitHub Stats And Top Languages
 
@@ -43,9 +43,6 @@ I love startup culture :)
 Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
 
 ## 📫 How to Reach Me
-
-
-[![Discord](https://img.shields.io/badge/Discord%20Profilim-Tıkla-red)](https://discord.com/users/823887682052161557)
 
 <details>
     <summary><b>🌟 Üzerinde Çalıştığım Alanlar</b></summary>
