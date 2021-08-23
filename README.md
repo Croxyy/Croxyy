@@ -1,5 +1,7 @@
 # 🎇 Eienwq 🎇 | 📖 Profile Information 📖
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323095557470158855)](https://discord.com/users/323095557470158855)
+
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
