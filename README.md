@@ -2,6 +2,14 @@
 
 [![Eienwq Profile](https://lanyard-profile-readme.vercel.app/api/323095557470158855)](https://discord.com/users/323095557470158855)
 
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Eienwq&count_private=true&show_icons=true&theme=dark" alt="Eienwq
+'s github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eienwq&theme=dark" alt="My Top Langs"/>
+</p>
+
 ## 📌 Eienwq.cs 📌
 <div>
 
