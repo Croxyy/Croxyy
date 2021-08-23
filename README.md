@@ -11,10 +11,6 @@
 </p>
 
 ## 📌 Eienwq.cs 📌
-
-<div align="center">
-<h1>Discord : !Eienwq#1260</h1>
-</div>
 <div>
 
 ```cs
