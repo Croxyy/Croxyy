@@ -1,5 +1,7 @@
 # 🎇 Eienwq 🎇 | 📖 Profile Information 📖
 
+![](https://komarev.com/ghpvc/?username=eienwq&color=db0000&label=Top+Profile+View+:)
+
 [![Eienwq Profile](https://lanyard-profile-readme.vercel.app/api/323095557470158855)](https://discord.com/users/323095557470158855)
 
 ## 📌 GitHub Stats And Top Languages
